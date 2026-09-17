@@ -1,2 +1,2 @@
-# BUKU-PINTR
+# BUKU-PINTAR
 web
